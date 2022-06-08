@@ -1,0 +1,4 @@
+node_modules
+package-log.json
+plugins
+dist/index.js
